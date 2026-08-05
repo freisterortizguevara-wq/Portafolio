@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Finanzauto.API/Finanzauto.API.csproj" />
+  <Project Path="Finanzauto.Application/Finanzauto.Application.csproj" />
+  <Project Path="Finanzauto.Domain/Finanzauto.Domain.csproj" />
+  <Project Path="Finanzauto.Infrastructure/Finanzauto.Infrastructure.csproj" />
+  <Project Path="Finanzauto.Tests/Finanzauto.Tests.csproj" />
+</Solution>

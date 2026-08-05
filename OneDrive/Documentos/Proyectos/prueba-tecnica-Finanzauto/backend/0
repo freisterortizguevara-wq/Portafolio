@@ -1,0 +1,1 @@
+            if (updateDto.Stock.HasValue) product.IsAvailable = updateDto.Stock.Value ;
