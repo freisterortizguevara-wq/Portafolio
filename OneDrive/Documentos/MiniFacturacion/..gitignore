@@ -1,0 +1,13 @@
+# Backend
+[Bb]in/
+[Oo]bj/
+*.user
+
+# Frontend
+Frontend/web/node_modules/
+Frontend/web/dist/
+.env
+
+# Otros
+.DS_Store
+Thumbs.db
